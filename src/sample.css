@@ -1,0 +1,39 @@
+/* Login Button */
+
+position: absolute;
+width: 187px;
+height: 80px;
+left: 940px;
+top: 628px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 187px;
+height: 80px;
+left: 940px;
+top: 628px;
+
+background: #FB404C;
+border-radius: 10px;
+
+
+/* SIGN IN */
+
+position: absolute;
+width: 81px;
+height: 44px;
+left: 993px;
+top: 645px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 44px;
+/* identical to box height, or 200% */
+
+color: #FFFFFF;
+
